@@ -1,5 +1,9 @@
+table{
+	cellpadding:0px;
+}
 th{
 	background-color:grey;
 	height:10%;
 	width:35%;
+	
 }
