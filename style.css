@@ -1,0 +1,16 @@
+#topToolbar{
+	height:10%;
+	width:100%;
+	padding:0px;
+	display:block;
+	margin:0px;
+	
+}
+.topToolbarButtonInactive{
+	height:10%;
+	width:25%;
+	padding:0px;
+	display:block;
+	margin:0px;
+	border:1px solid black;
+}
