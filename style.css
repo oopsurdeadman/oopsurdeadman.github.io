@@ -3,11 +3,13 @@
 	width:100%;
 	padding:0px;
 	display:block;
+	background-color:grey;
 	margin:0px;
 	
 }
 .topToolbarButtonInactive{
 	height:10%;
+	background-color:lightgrey;
 	width:25%;
 	padding:0px;
 	display:block;
